@@ -10,7 +10,7 @@ from sklearn.preprocessing import StandardScaler
 
 st.title("Pengertian Diabetes")
 st.write("Diabetes melitus atau yang dikenal dengan kencing manis merupakan penyakit dimana kadar gula dalam darah cukup tinggi karena tubuh tidak dapat menggunakan insulin sehingga gula didalam darah tidak dapat dimetabolisme.")
-
+st.image("Alat tes diabetes.jpeg.jpg")
 st.title("Gejala Diabetes")
 st.write("A. Sering kencing")
 st.write("B. Rasa haus berlebihan")
@@ -27,6 +27,7 @@ st.write("Hipertens")
 st.write("Gangguan Toleransi Glukosa")
 
 st.title("Cara Mengontrol Diabetes")
+st.image("Kontrol Diabetes.jpeg.jpg")
 st.write("Diet Sehat dan Seimbang")
 st.write("Olahraga Rutin")
 st.write("Pemantauan Gula Darah")
@@ -100,3 +101,4 @@ st.write("2. Muhammad Ariel. Z (2360181)")
 st.write("3. Najwa Nubzatussofwa(2360201)")
 st.write("4. Nayla Khairunnisa (2360208)")
 st.write("5. Tsania Zahra (2360280)")
+st.image("our members.jpg")
